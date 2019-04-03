@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/caobotao/AndroidStudioProjects/TabUsingViewpagerAndFragmentPagerAdapter/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7af1f5727f07c941c2a237f9e4d8e80c7c5a055">
+        <dex dex="/Users/caobotao/AndroidStudioProjects/TabUsingViewpagerAndFragmentPagerAdapter/app/build/intermediates/pre-dexed/debug/classes_3593f70d98c72fae378bba9d563ad3eb88791acc.jar" />
+    </item>
+
+</items>
